@@ -1,5 +1,5 @@
 # Write a function canConstruct(target, wordBank) that accepts a
-# targetstring and an array of strings.
+# target string and an array of strings.
 #
 # The function should return a boolean indicating whether or not the
 # targe can be constructed by concatenating elements of the
