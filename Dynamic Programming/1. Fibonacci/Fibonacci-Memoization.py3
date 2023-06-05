@@ -7,7 +7,7 @@
 # eg: fib(n): 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
 
 # Apply memoization.
-def fib(n: int, memo: dict = {}) -> int:
+def fib(n: int, memo: dict) -> int:
 	if n in memo:
 		return memo[n]
 	if n <= 2:
@@ -15,10 +15,10 @@ def fib(n: int, memo: dict = {}) -> int:
 	memo[n] = fib(n - 1, memo) + fib(n - 2, memo)
 	return memo[n]
 
-print(fib(6)) # 8
-print(fib(7)) # 13
-print(fib(8)) # 21
-print(fib(50)) # 12586269025
+print(fib(6, {})) # 8
+print(fib(7, {})) # 13
+print(fib(8, {})) # 21
+print(fib(50, {})) # 12586269025
 
 # Complexity
 # Time: O(n)
