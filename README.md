@@ -10,3 +10,6 @@ Each problem has 3 solutions: brute force, memoization and tabulation.
 2. Graph Algorithms
 Graph Theory revision. 
 YouTube tutorial from freeCodeCamp.org: https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=1032
+
+3. Heap data structure
+YouTube tutorial from HackerRank: https://www.youtube.com/watch?v=t0Cq6tVNRBA
