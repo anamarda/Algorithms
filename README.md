@@ -12,4 +12,7 @@ Graph Theory revision.
 YouTube tutorial from freeCodeCamp.org: https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=1032
 
 3. Heap data structure
+
 YouTube tutorial from HackerRank: https://www.youtube.com/watch?v=t0Cq6tVNRBA
+
+Cool Priority Queue tutorial and implementation: https://www.programiz.com/dsa/priority-queue
